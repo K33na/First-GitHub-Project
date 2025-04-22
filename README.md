@@ -11,7 +11,9 @@ It's a simple page that helps me practice basic web structure, GitHub, Git comma
 ## Structure
 
 |____exercise-1-basic-page/
+
 |____index.html
+
 |____styles.css
 
 ## Goals
